@@ -7,7 +7,7 @@
     if (name != null) {
         submitted = true;
         if (name.trim().isEmpty()) {
-            greeting = "Please enter a name!";
+            greeting = "Please enter a name!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!";
         } else {
             greeting = "Hello, " + name + "! Welcome to HIT DevOps Production.";
         }
