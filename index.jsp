@@ -7,7 +7,7 @@
     if (name != null) {
         submitted = true;
         if (name.trim().isEmpty()) {
-            greeting = "Please enter a name!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!";
+            greeting = "Please enter a name";
         } else {
             greeting = "Hello, " + name + "! Welcome to HIT DevOps Production.";
         }
@@ -42,7 +42,7 @@
 
         <!-- INPUT TEXT BOX (requirement) -->
         <form method="get" action="index.jsp">
-            <label for="username">Enter your name:</label>
+            <label for="username">Enter your name!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!:</label>
             <input type="text" id="username" name="username" placeholder="e.g. Moshe" />
 
             <!-- BUTTON (requirement) -->
