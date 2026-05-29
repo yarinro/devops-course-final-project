@@ -11,3 +11,5 @@ Thumbs.db
 
 .gatling/
 results/
+docs/
+selenium/
