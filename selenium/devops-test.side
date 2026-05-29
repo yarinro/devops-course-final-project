@@ -1,0 +1,245 @@
+{
+  "id": "ef456ffd-4408-400e-bc19-15ab6b6fdbac",
+  "version": "2.0",
+  "name": "HIT devops final project",
+  "url": "http://178.105.214.118:8080/index.jsp",
+  "tests": [{
+    "id": "fa9de66b-9377-4a71-878c-f34db8c81e1a",
+    "name": "test 1",
+    "commands": [{
+      "id": "79066f93-e0c5-4614-992f-3d5f1f7d3e72",
+      "comment": "",
+      "command": "open",
+      "target": "http://178.105.214.118:8080/index.jsp",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "4462388d-39f4-4767-a4bc-d7c5f52185b9",
+      "comment": "",
+      "command": "click",
+      "target": "css=h1",
+      "targets": [
+        ["css=h1", "css:finder"],
+        ["xpath=//h1", "xpath:position"],
+        ["xpath=//h1[contains(.,'HIT DevOps Final Project')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "9e37162d-cea5-4439-851b-7e3441892393",
+      "comment": "",
+      "command": "click",
+      "target": "css=h1",
+      "targets": [
+        ["css=h1", "css:finder"],
+        ["xpath=//h1", "xpath:position"],
+        ["xpath=//h1[contains(.,'HIT DevOps Final Project')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "7b4212ff-be84-4386-9f34-fbc9be16e731",
+      "comment": "",
+      "command": "doubleClick",
+      "target": "css=h1",
+      "targets": [
+        ["css=h1", "css:finder"],
+        ["xpath=//h1", "xpath:position"],
+        ["xpath=//h1[contains(.,'HIT DevOps Final Project')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "11187256-331b-4241-8aad-0d58a76a2dbc",
+      "comment": "",
+      "command": "click",
+      "target": "css=h1",
+      "targets": [
+        ["css=h1", "css:finder"],
+        ["xpath=//h1", "xpath:position"],
+        ["xpath=//h1[contains(.,'HIT DevOps Final Project')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "3829c939-3fb3-4e31-84a6-43010ffd314f",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "css=h1",
+      "targets": [
+        ["css=h1", "css:finder"],
+        ["xpath=//h1", "xpath:position"],
+        ["xpath=//h1[contains(.,'HIT DevOps Final Project')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "fefe1b5f-891c-40c6-b907-a985fbf5dff3",
+      "comment": "",
+      "command": "click",
+      "target": "id=username",
+      "targets": [
+        ["id=username", "id"],
+        ["name=username", "name"],
+        ["css=#username", "css:finder"],
+        ["xpath=//input[@id='username']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d8a888ae-5fe5-492d-9f8f-004396da5ef6",
+      "comment": "",
+      "command": "click",
+      "target": "id=username",
+      "targets": [
+        ["id=username", "id"],
+        ["name=username", "name"],
+        ["css=#username", "css:finder"],
+        ["xpath=//input[@id='username']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c3cb913e-5225-42a4-9470-fecb6a3bd3ac",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "id=username",
+      "targets": [
+        ["id=username", "id"],
+        ["name=username", "name"],
+        ["css=#username", "css:finder"],
+        ["xpath=//input[@id='username']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "509a3e67-abe3-4e02-a3dd-477706aa767b",
+      "comment": "",
+      "command": "type",
+      "target": "id=username",
+      "targets": [
+        ["id=username", "id"],
+        ["name=username", "name"],
+        ["css=#username", "css:finder"],
+        ["xpath=//input[@id='username']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "rotem"
+    }, {
+      "id": "092af9f3-b4c0-430f-870a-b636a8015190",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wrap",
+      "targets": [
+        ["css=.wrap", "css:finder"],
+        ["xpath=//div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "535c9b79-9e20-4f25-85a3-89db84cdb550",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "id=greetBtn",
+      "targets": [
+        ["id=greetBtn", "id"],
+        ["css=#greetBtn", "css:finder"],
+        ["xpath=//button[@id='greetBtn']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Greet Me')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "9b60bd74-deeb-4456-b8bd-d054ff283c95",
+      "comment": "",
+      "command": "click",
+      "target": "id=greetBtn",
+      "targets": [
+        ["id=greetBtn", "id"],
+        ["css=#greetBtn", "css:finder"],
+        ["xpath=//button[@id='greetBtn']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Greet Me')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "16432437-d2a4-449f-a754-2fe592bccc3a",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "cb2a7275-d875-4f3b-b5ed-6b8a20308d6e",
+    "name": "1",
+    "commands": [{
+      "id": "b2cd87eb-79e5-4e06-b1a4-adfb749d9854",
+      "comment": "",
+      "command": "open",
+      "target": "http://178.105.214.118:8080/index.jsp",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8b9ed851-fcf5-4c68-a747-da702ecb832d",
+      "comment": "",
+      "command": "assertTitle",
+      "target": "HIT DevOps Final Project",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1e6e5405-e58f-421b-9db7-ea45c44e9733",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h1",
+      "targets": [],
+      "value": "HIT DevOps Final Project"
+    }, {
+      "id": "d865867d-8dfd-411d-806a-f820f53c0d3c",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "id=username",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "802cb0d5-5e93-4862-84ff-2039da2393db",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "id=greetBtn",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "52723fc9-769e-4b65-97bd-b0ec03467a31",
+      "comment": "",
+      "command": "click",
+      "target": "id=username",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c0d2ecc5-7425-4e66-baee-b7c6e6e277c3",
+      "comment": "",
+      "command": "click",
+      "target": "id=greetBtn",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6d6879a7-4ccc-4e31-ab6f-982edbe08c23",
+      "comment": "",
+      "command": "assertText",
+      "target": "id=resultMsg",
+      "targets": [],
+      "value": "Please enter a name"
+    }, {
+      "id": "83cb3704-e2c9-429a-918c-31a54b2d8bca",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "id=docsLink",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "9be0bf73-f09e-4ba7-8400-b7e50f70b69c",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["fa9de66b-9377-4a71-878c-f34db8c81e1a"]
+  }],
+  "urls": ["http://178.105.214.118:8080/index.jsp"],
+  "plugins": []
+}
