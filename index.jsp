@@ -58,7 +58,7 @@
         <!-- LINK (requirement) -->
         <a class="docs" id="docsLink" href="https://gatling.io/docs/" target="_blank">View Gatling Documentation</a>
 
-        <footer>HIT &copy; 2026 &mdash; Yarin, Ron, Rotem, Yarden!!!!!!!!!!!!!!!!!!!!!!!!!!!</footer>
+        <footer>HIT &copy; 2026 &mdash; Yarin, Ron, Rotem, Yarden</footer>
     </div>
 </body>
 </html>
