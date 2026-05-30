@@ -156,13 +156,6 @@
         ["xpath=//button[contains(.,'Greet Me')]", "xpath:innerText"]
       ],
       "value": ""
-    }, {
-      "id": "16432437-d2a4-449f-a754-2fe592bccc3a",
-      "comment": "",
-      "command": "close",
-      "target": "",
-      "targets": [],
-      "value": ""
     }]
   }, {
     "id": "cb2a7275-d875-4f3b-b5ed-6b8a20308d6e",
